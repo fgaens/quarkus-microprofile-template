@@ -1,4 +1,4 @@
-package codesolutions.qmp.greetings.boundary;
+package be.codesolutions.qmp.greetings.boundary;
 
 import io.quarkus.test.junit.QuarkusTest;
 import jakarta.inject.Inject;

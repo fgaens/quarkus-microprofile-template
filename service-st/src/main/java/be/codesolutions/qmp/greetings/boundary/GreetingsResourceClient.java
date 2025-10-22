@@ -1,4 +1,4 @@
-package codesolutions.qmp.greetings.boundary;
+package be.codesolutions.qmp.greetings.boundary;
 
 import org.eclipse.microprofile.rest.client.inject.RegisterRestClient;
 

@@ -1,4 +1,4 @@
-package codesolutions.qmp.greetings.control;
+package be.codesolutions.qmp.greetings.control;
 
 import jakarta.enterprise.context.ApplicationScoped;
 import org.eclipse.microprofile.config.inject.ConfigProperty;

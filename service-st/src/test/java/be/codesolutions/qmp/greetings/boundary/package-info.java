@@ -7,4 +7,4 @@
  * <p>
  * System test classes are named after resources with the "IT" suffix.
  */
-package codesolutions.qmp.greetings.boundary;
+package be.codesolutions.qmp.greetings.boundary;

@@ -1,6 +1,6 @@
-package codesolutions.qmp.greetings.boundary;
+package be.codesolutions.qmp.greetings.boundary;
 
-import codesolutions.qmp.greetings.control.Greeter;
+import be.codesolutions.qmp.greetings.control.Greeter;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.ws.rs.Consumes;
 import jakarta.ws.rs.GET;
